@@ -1,0 +1,49 @@
+
+ .container { 
+  height: 100%; 
+  width: auto; 
+  border: 2px solid black; 
+  background-color: lightpink; 
+  color: black;
+}
+            
+body{
+    font-family: Tahoma, Genova, sans-serif;
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+}
+
+#main h1{
+    margin: 0%;
+    padding: 0%;
+    font-size: 85px;
+}
+
+#main h2{
+    margin: 0%;
+    padding-top: 5%;
+    padding-bottom: 0%;
+}
+#mainn {
+    font-size: 155%;
+    
+}
+#date {
+    margin-top: 5%;
+    font-size: 160%;
+}
+#otherDetails{
+    font-size: 105%;
+}
+
+#main2  {
+    font-size: 200%;
+    text-align: center;
+    padding-top: 15%;
+    padding-bottom: 15%;
+}
+
+#ask{
+    margin-bottom = 10%;
+}
